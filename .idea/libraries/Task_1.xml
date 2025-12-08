@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Task 1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Princeton Algorithms 1/Task 1/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Princeton Algorithms 1/Task 1/hello.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
